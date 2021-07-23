@@ -334,7 +334,7 @@ footer ul {
 
 /* -------------------------------------------------------Media Qyerrry _____________________________________ */
 
-@media screen and (max-width: 1466px) {
+@media screen and (max-width: 1400px) {
   h1 {
     font-size: 2.5rem;
   }
