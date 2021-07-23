@@ -14,7 +14,7 @@ body {
   font-family: "Oxanium", cursive;
   max-width: 100%;    
   min-width: 1700px;
-  zoom: 75%
+  
   /* overflow: hidden; */
 }
 
@@ -252,7 +252,7 @@ nav ul li a:hover {
 /* ---------------------------------section 3------------------------------------- */
 
 .sec4 {
-  margin-top: -2%;
+  margin-top: -4%;
   height: 100%;
   width: 100%;
   overflow: hidden;
