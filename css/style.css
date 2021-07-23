@@ -256,7 +256,7 @@ nav ul li a:hover {
   width: 100%;
   overflow: hidden;
   text-align: center;
-  background: linear-gradient(180deg, #057abf 0%, rgba(70, 224, 159, 0) 100%);
+  background: linear-gradient(180deg, #057abf 1%, rgba(70, 224, 159, 0) 100%);
 }
 
 .sec4 .head {
