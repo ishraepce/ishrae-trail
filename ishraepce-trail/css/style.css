@@ -14,6 +14,7 @@ body {
   font-family: "Oxanium", cursive;
   max-width: 100%;    
   min-width: 1700px;
+  zoom: 75%
   /* overflow: hidden; */
 }
 
