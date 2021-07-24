@@ -725,6 +725,6 @@
     position: absolute;
 }
 .lastcolor{
-
+    width: 153.5rem;
     background: linear-gradient(180deg, #057abf 0%, rgba(70, 224, 159, 0) 100%);
 }
