@@ -613,7 +613,7 @@
     font-size: 40px;
 }
 .frm{
-    width: 128rem;
+    width: 140rem;
     height: 50rem;
     /*background-color: blanchedalmond;*/
     margin-left: 10rem;
@@ -720,7 +720,7 @@
 .latt{
     height: 90vh;
     width: 100vw;
-    margin-top: 87rem;
+    top: 87rem;
     z-index: -1;
     position: absolute;
 }
