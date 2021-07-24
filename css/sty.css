@@ -616,7 +616,7 @@
     width: 140rem;
     height: 50rem;
     /*background-color: blanchedalmond;*/
-    margin-left: 13rem;
+    margin-left: 15rem;
     margin-right: 10rem;
     margin-bottom: 13rem;
     /*font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -720,7 +720,7 @@
 .latt{
     height: 90vh;
     width: 100vw;
-    margin-top: 81vh;
+    margin-top: 83vh;
     z-index: -1;
     position: absolute;
 }
